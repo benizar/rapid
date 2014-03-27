@@ -1,3 +1,4 @@
 obj/
 bin/
+Thumbs.db
 *.csproj.user
